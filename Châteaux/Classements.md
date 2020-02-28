@@ -11,8 +11,8 @@
 - **Deuxième crus :** 
   - **Margaux :** Brane-Cantenac, Dufort-Vivens, Lascombes, Rauzan-Gassies, Rauzan-Ségla
   - **Pauillac :** Pichon Baron, Pichon-Longueville Comtesse de Lalande,
-  - **Saint-Estèphe :** Cos d'Estournel, Montrose
-  - **Saint-Julien :** Ducru-Beaucaillou, Gruaud Larose, Léoville Barton, Léoville Las Cases, Léoville Poyferré
+  - **Saint-estèphe :** Cos d'Estournel, Montrose
+  - **Saint-julien :** Ducru-Beaucaillou, Gruaud Larose, Léoville Barton, Léoville Las Cases, Léoville Poyferré
 - **Troisièmes crus :**
 
 ## Le classement de 1855 des vins blancs et moelleux (Médoc)
@@ -23,7 +23,7 @@ L’appellation pessac-léognan comprend la totalité des Crus Classés de Grave
 
 C'est un classement non hiérarchique des 16 Crus homolo­gués par l'INAO, par Décrets du 7 août 1953 et du 16 février 1959. Le Passage de 16 à 14 s'explique : La Tour HB et Laville HB ont eu leurs derniers millésimes en 2005 et 2008, et servent à alimenter La Mission HB maintenant.
 
-Crus Classés de Graves Rouge et Blanc :
+### Crus Classés de Graves Rouge et Blanc :
 
 - Château Bouscaut
 - Château Carbonnieux
@@ -32,7 +32,7 @@ Crus Classés de Graves Rouge et Blanc :
 - Château Malartic-Lagravière
 - Château Olivier
 
-Crus Classés de Graves Rouge :
+### Crus Classés de Graves Rouge :
 
 - Château de Fieuzal
 - Château Haut-Bailly
@@ -41,7 +41,7 @@ Crus Classés de Graves Rouge :
 - Château Pape Clément
 - Château Smith Haut Lafitte
 
-Crus Classés de Graves Blanc :
+### Crus Classés de Graves Blanc :
 
 - Château Couhins
 - Château Couhins-Lurton
