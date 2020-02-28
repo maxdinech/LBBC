@@ -5,7 +5,7 @@
 61 crus dont cinq premiers crus, quatorze seconds crus, quatorze troisièmes crus, dix quatrièmes crus et dix huit cinquièmes crus.
 
 - **Premiers crus:**
-- - **Margaux :** Margaux
+  - **Margaux :** Margaux
   - **Pauillac :** Lafite Rothschild, Latour, Mouton Rothschild (promu de 2ème à 1er en 1973)
   - **Graves :** Haut-Brion (c'est l'exception !)
 - **Deuxième crus :** 
