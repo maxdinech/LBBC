@@ -1,10 +1,10 @@
-## 3. Les Appellations du Médoc
+## La région du Médoc
 
 ## Géographie
 
-![Médoc](figures/Médoc.jpg)
-
 ![Médoc_Hachette](figures/Médoc_Hachette.jpeg)
+
+[Carte simplifiée](figures/Médoc.jpg)
 
 ## Description Hachette
 
