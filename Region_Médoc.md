@@ -1,0 +1,28 @@
+## 3. Les Appellations du Médoc
+
+## Géographie
+
+![Médoc](figures/Médoc.jpg)
+
+![Médoc_Hachette](figures/Médoc_Hachette.jpeg)
+
+## Description Hachette
+
+Entre océan et estuaire de la Gironde, le Médoc viticole est une vaste **"presqu'île du vin"** étendue sur plus de 80 km de long pour 10 de large, entre Blanquefort au sud et Saint-Vivien-en-Médoc au nord. Une région aux **multiples contrastes**, qui offre aussi bien des horizons plats (près de Margaux) que des croupes (vers Pauillac), ou encore un univers à la fois terrestre et maritime dans sa partie nord.
+
+La grande richesse du Médoc tient dans ses **sols graveleux**, descendant en pentes douces vers l'estuaire de la Gironde, terre d'élection de **vins rouges de garde** à dominante de **cabernet-sauvignon**, au premier rang desquels les **crus classés de 1855**.
+
+Deux zones ici : le Haut-Médoc, de Blanquefort à Saint-Seurin-de-Cadourne, et le nord Médoc, de Saint-Germain-d'Esteuil à Saint-Vivien. Le vignoble se répartit en huit AOC : deux appellations sous-régionales (**médoc** et **haut-médoc** : 60 % du vignoble médocain) et six appellations communales (**saint-estèphe, pauillac, saint-julien, listrac-médoc, moulis-en-médoc et margaux**) qui produisent les vins les plus réputés et la plupart des crus classés.
+
+## Les AOC du Médoc
+
+Du Nord vers le Sud, on retrouve les AOC suivantes :
+
+- [L'AOC Médoc](AOC_Médoc.md) (partout sur la région, avec un bloc au Nord)
+- [L'AOC Saint-estèphe](AOC_Saint-estèphe.md)
+- [L'AOC Pauillac](AOC_Pauillac.md)
+- [L'AOC Saint-julien](AOC_Saint-julien.md)
+- [L'AOC Listrac-médoc](AOC_Listrac-médoc.md)
+- [L'AOC Moulis-en-médoc](AOC_Moulis-en-médoc.md)
+- [L'AOC Margaux](AOC_Margaux.md)
+- [L'AOC Haut-médoc](AOC_Haut-médoc.md)
