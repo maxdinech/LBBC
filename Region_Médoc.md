@@ -16,13 +16,13 @@ Deux zones ici : le Haut-Médoc, de Blanquefort à Saint-Seurin-de-Cadourne, et 
 
 ## Les AOC du Médoc
 
-Du Nord vers le Sud, on retrouve les AOC suivantes :
+Une grande [AOC Médoc](AOC_Médoc.md), qui couvre toute la région. La partie Sud préfèrera souvent passer en [AOC Haut-médoc](AOC_Haut-médoc.md) (à part un îlot au Sud-Ouest, côté Atlantique, en AOC Médoc uniquement)
 
-- [L'AOC Médoc](AOC_Médoc.md) (partout sur la région, avec un bloc au Nord)
+Du Nord vers le Sud, on retrouve les petites AOC suivantes :
+
 - [L'AOC Saint-estèphe](AOC_Saint-estèphe.md)
 - [L'AOC Pauillac](AOC_Pauillac.md)
 - [L'AOC Saint-julien](AOC_Saint-julien.md)
 - [L'AOC Listrac-médoc](AOC_Listrac-médoc.md)
 - [L'AOC Moulis-en-médoc](AOC_Moulis-en-médoc.md)
 - [L'AOC Margaux](AOC_Margaux.md)
-- [L'AOC Haut-médoc](AOC_Haut-médoc.md)
