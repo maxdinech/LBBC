@@ -14,7 +14,7 @@ Des sols à l'origine de **vins rouges et blancs**, principalement secs (les vin
 
 En tête, le célèbre **Château Haut-Brion**, premier château du vin et premier cru du Bordelais à connaître la célébrité en Grande-Bretagne dès le XVIIe. Le seul cru non médocain à avoir intégré le classement de 1855, tout en figurant aussi dans le classement des Graves (1953), composé exclusivement de pessac-léognan et le seul aujourd'hui en Gironde à comprendre aussi bien des vins blancs secs que des vins rouges.
 
-## Les AOC des Graves
+## Les AOCs des Graves
 
 - [L'AOC Graves](../AOCs/AOC_Graves.md)
 - [L'AOC Graves-supérieures](../AOCs/AOC_Graves-supérieures.md)

@@ -14,7 +14,7 @@ La grande richesse du Médoc tient dans ses **sols graveleux**, descendant en pe
 
 Deux zones ici : le Haut-Médoc, de Blanquefort à Saint-Seurin-de-Cadourne, et le nord Médoc, de Saint-Germain-d'Esteuil à Saint-Vivien. Le vignoble se répartit en huit AOC : deux appellations sous-régionales (**médoc** et **haut-médoc** : 60 % du vignoble médocain) et six appellations communales (**saint-estèphe, pauillac, saint-julien, listrac-médoc, moulis-en-médoc et margaux**) qui produisent les vins les plus réputés et la plupart des crus classés.
 
-## Les AOC du Médoc
+## Les AOCs du Médoc
 
 Une grande [AOC Médoc](../AOCs/AOC_Médoc.md), qui couvre toute la région. La partie Sud préfèrera souvent passer en [AOC Haut-médoc](../AOCs/AOC_Haut-médoc.md) (à part un îlot au Sud-Ouest, côté Atlantique, en AOC Médoc uniquement)
 
