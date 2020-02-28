@@ -9,7 +9,7 @@
   - **Pauillac :** Lafite Rothschild, Latour, Mouton Rothschild (promu de 2ème à 1er en 1973)
   - **Graves :** Haut-Brion (c'est l'exception !)
 - **Deuxième crus :** 
-- - **Margaux :** Brane-Cantenac, Dufort-Vivens, Lascombes, Rauzan-Gassies, Rauzan-Ségla
+  - **Margaux :** Brane-Cantenac, Dufort-Vivens, Lascombes, Rauzan-Gassies, Rauzan-Ségla
   - **Pauillac :** Pichon Baron, Pichon-Longueville Comtesse de Lalande,
   - **Saint-Estèphe :** Cos d'Estournel, Montrose
   - **Saint-Julien :** Ducru-Beaucaillou, Gruaud Larose, Léoville Barton, Léoville Las Cases, Léoville Poyferré
