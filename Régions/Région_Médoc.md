@@ -12,17 +12,10 @@ Entre océan et estuaire de la Gironde, le Médoc viticole est une vaste **"pres
 
 La grande richesse du Médoc tient dans ses **sols graveleux**, descendant en pentes douces vers l'estuaire de la Gironde, terre d'élection de **vins rouges de garde** à dominante de **cabernet-sauvignon**, au premier rang desquels les **crus classés de 1855**.
 
-Deux zones ici : le Haut-Médoc, de Blanquefort à Saint-Seurin-de-Cadourne, et le nord Médoc, de Saint-Germain-d'Esteuil à Saint-Vivien. Le vignoble se répartit en huit AOC : deux appellations sous-régionales (**médoc** et **haut-médoc** : 60 % du vignoble médocain) et six appellations communales (**saint-estèphe, pauillac, saint-julien, listrac-médoc, moulis-en-médoc et margaux**) qui produisent les vins les plus réputés et la plupart des crus classés.
-
 ## Les AOCs du Médoc
 
-Une grande [AOC Médoc](../AOCs/AOC_Médoc.md), qui couvre toute la région. La partie Sud préfèrera souvent passer en [AOC Haut-médoc](../AOCs/AOC_Haut-médoc.md) (à part un îlot au Sud-Ouest, côté Atlantique, en AOC Médoc uniquement)
+Deux zones ici : le Haut-Médoc, de Blanquefort à Saint-Seurin-de-Cadourne, et le nord Médoc, de Saint-Germain-d'Esteuil à Saint-Vivien. Le vignoble se répartit en huit AOC.
 
-Du Nord vers le Sud, on retrouve les petites AOC suivantes :
+Deux appellations sous-régionales : Une grande [AOC Médoc](../AOCs/AOC_Médoc.md), qui couvre toute la région ; la partie Sud préfèrera souvent passer en [AOC Haut-médoc](../AOCs/AOC_Haut-médoc.md) (à part un îlot au Sud-Ouest, en AOC Médoc uniquement). Elles représentent 60 % du vignoble médocain)
 
-- [L'AOC Saint-estèphe](../AOCs/AOC_Saint-estèphe.md)
-- [L'AOC Pauillac](../AOCs/AOC_Pauillac.md)
-- [L'AOC Saint-julien](../AOCs/AOC_Saint-julien.md)
-- [L'AOC Listrac-médoc](../AOCs/AOC_Listrac-médoc.md)
-- [L'AOC Moulis-en-médoc](../AOCs/AOC_Moulis-en-médoc.md)
-- [L'AOC Margaux](../AOCs/AOC_Margaux.md)
+Et six appellations communales (du Nord au Sud : [saint-estèphe](../AOCs/AOC_Saint-estèphe.md), [pauillac](../AOCs/AOC_Pauillac.md), [saint-julien](../AOCs/AOC_Saint-julien.md), [listrac-médoc](../AOCs/AOC_Listrac-médoc.md), [moulis-en-médoc](../AOCs/AOC_Moulis-en-médoc.md) et [margaux](../AOCs/AOC_Margaux.md)) qui produisent les vins les plus réputés et la plupart des crus classés.
