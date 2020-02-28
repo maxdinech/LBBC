@@ -2,7 +2,7 @@
 
 ## Géographie
 
-![Listrac_Moulis_Hachette](figures/Listrac_Moulis_Hachette.jpg)
+![Listrac_Moulis_Hachette](../figures/Listrac_Moulis_Hachette.jpg)
 
 ## Informations techniques
 

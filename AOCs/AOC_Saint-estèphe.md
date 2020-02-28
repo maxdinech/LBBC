@@ -2,7 +2,7 @@
 
 ## Géographie
 
-![Saint-Estèphe_Hachette](figures/Saint-Estèphe_Hachette.jpg)
+![Saint-Estèphe_Hachette](../figures/Saint-Estèphe_Hachette.jpg)
 
 ## Informations techniques
 

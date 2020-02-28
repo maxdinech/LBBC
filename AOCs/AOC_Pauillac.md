@@ -2,7 +2,7 @@
 
 ## Géographie
 
-![Pauillac_Hachette](figures/Pauillac_Hachette.jpg)
+![Pauillac_Hachette](../figures/Pauillac_Hachette.jpg)
 
 ## Informations techniques
 

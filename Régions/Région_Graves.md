@@ -2,9 +2,9 @@
 
 ## Géographie
 
-![Graves_Hachette](figures/Graves_Hachette.jpeg)
+![Graves_Hachette](../figures/Graves_Hachette.jpeg)
 
-[Carte simplifiée](figures/Graves.jpg)
+[Carte simplifiée](../figures/Graves.jpg)
 
 ## Description Hachette
 
@@ -16,6 +16,6 @@ En tête, le célèbre **Château Haut-Brion**, premier château du vin et premi
 
 ## Les AOC des Graves
 
-- [L'AOC Graves](AOC_Graves.md)
-- [L'AOC Graves-supérieures](AOC_Graves-supérieures.md)
-- [L'AOC Pessac-léognan](AOC_Pessac-léognan.md)
+- [L'AOC Graves](../AOCs/AOC_Graves.md)
+- [L'AOC Graves-supérieures](../AOCs/AOC_Graves-supérieures.md)
+- [L'AOC Pessac-léognan](../AOCs/AOC_Pessac-léognan.md)

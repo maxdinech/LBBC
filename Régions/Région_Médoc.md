@@ -2,9 +2,9 @@
 
 ## Géographie
 
-![Médoc_Hachette](figures/Médoc_Hachette.jpeg)
+![Médoc_Hachette](../figures/Médoc_Hachette.jpeg)
 
-[Carte simplifiée](figures/Médoc.jpg)
+[Carte simplifiée](../figures/Médoc.jpg)
 
 ## Description Hachette
 
@@ -16,13 +16,13 @@ Deux zones ici : le Haut-Médoc, de Blanquefort à Saint-Seurin-de-Cadourne, et 
 
 ## Les AOC du Médoc
 
-Une grande [AOC Médoc](AOC_Médoc.md), qui couvre toute la région. La partie Sud préfèrera souvent passer en [AOC Haut-médoc](AOC_Haut-médoc.md) (à part un îlot au Sud-Ouest, côté Atlantique, en AOC Médoc uniquement)
+Une grande [AOC Médoc](../AOCs/AOC_Médoc.md), qui couvre toute la région. La partie Sud préfèrera souvent passer en [AOC Haut-médoc](../AOCs/AOC_Haut-médoc.md) (à part un îlot au Sud-Ouest, côté Atlantique, en AOC Médoc uniquement)
 
 Du Nord vers le Sud, on retrouve les petites AOC suivantes :
 
-- [L'AOC Saint-estèphe](AOC_Saint-estèphe.md)
-- [L'AOC Pauillac](AOC_Pauillac.md)
-- [L'AOC Saint-julien](AOC_Saint-julien.md)
-- [L'AOC Listrac-médoc](AOC_Listrac-médoc.md)
-- [L'AOC Moulis-en-médoc](AOC_Moulis-en-médoc.md)
-- [L'AOC Margaux](AOC_Margaux.md)
+- [L'AOC Saint-estèphe](../AOCs/AOC_Saint-estèphe.md)
+- [L'AOC Pauillac](../AOCs/AOC_Pauillac.md)
+- [L'AOC Saint-julien](../AOCs/AOC_Saint-julien.md)
+- [L'AOC Listrac-médoc](../AOCs/AOC_Listrac-médoc.md)
+- [L'AOC Moulis-en-médoc](../AOCs/AOC_Moulis-en-médoc.md)
+- [L'AOC Margaux](../AOCs/AOC_Margaux.md)

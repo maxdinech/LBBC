@@ -2,7 +2,7 @@
 
 ## Géographie
 
-![Saint-Julien_Hachette](figures/Saint-Julien_Hachette.jpg)
+![Saint-Julien_Hachette](../figures/Saint-Julien_Hachette.jpg)
 
 ## Informations techniques
 

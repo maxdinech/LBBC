@@ -2,7 +2,7 @@
 
 ## Géographie
 
-![Margaux_Hachette](figures/Margaux_Hachette.jpg)
+![Margaux_Hachette](../figures/Margaux_Hachette.jpg)
 
 ## Informations techniques
 
